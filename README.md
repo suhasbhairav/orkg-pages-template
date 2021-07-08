@@ -1,3 +1,6 @@
+# Link to the Github IO Page
+https://suhasbhairav.github.io/orkg-pages-template/
+
 # ORKG Pages Template
 This repository is mirrored on GitHub https://github.com/TIBHannover/orkg-pages-template. 
 
